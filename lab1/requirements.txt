@@ -5,3 +5,7 @@ plotly
 nbformat
 numba
 umap-learn
+wget
+jupyterlab
+ipykernel
+ipywidgets
