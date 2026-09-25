@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+gensim
+plotly
+nbformat
+numba
+umap-learn
