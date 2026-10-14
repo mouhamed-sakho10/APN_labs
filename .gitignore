@@ -3,3 +3,4 @@
 .virtual_documents/
 __pycache__/
 iframe_figures/
+/lab3/*.csv
