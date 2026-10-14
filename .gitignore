@@ -4,3 +4,5 @@
 __pycache__/
 iframe_figures/
 /lab3/*.csv
+*.keras
+*.h5
