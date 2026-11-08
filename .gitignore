@@ -6,3 +6,4 @@ iframe_figures/
 /lab3/*.csv
 *.keras
 *.h5
+/lab4/News_Category_Dataset_v2.json/
